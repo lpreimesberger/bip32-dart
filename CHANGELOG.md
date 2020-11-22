@@ -26,3 +26,7 @@
 ## 1.0.6
 
 - Fix derive bug
+
+## 1.0.8
+
+- fork from original, update libs to current :D
